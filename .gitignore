@@ -11,3 +11,4 @@ src/data/
 src/main/network_matching/output/
 src/main/network_matching/results/
 src/main/resampling_mfd/results/
+src/main/visualisation/results/
