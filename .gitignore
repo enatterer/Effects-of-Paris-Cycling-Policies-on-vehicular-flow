@@ -8,8 +8,11 @@ env/
 
 # Ignore data files
 src/data/ 
+src/main/investigating_data/cache/
 src/main/network_matching/output/
 src/main/network_matching/results/
 src/main/resampling_mfd/results/
-src/main/visualisation/results/
 src/main/resampling_mfd/output/
+src/main/visualisation/results/
+src/main/visualisation/cache/
+
