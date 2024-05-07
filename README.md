@@ -1,6 +1,6 @@
-# Traffic and Network Data Analysis Paris
+# Effects of the Plan Vélo I and II on vehicular flow in Paris - An Empirical Analysis
 
-This contains the code for an ITSC Submission titled "Effects of the Plan Velo I and II on vehicular flow in Paris - An Empirical Analysis". In the paper, we investigate how the fundamental changes in the Paris' road network since 2015 changed vehicular flow. 
+This contains the code for the ITSC submission with this title. In the paper, we investigate how the fundamental changes in the Paris' road network since 2010 affected a change in vehicular flow. 
 The Network Fundamental Diagram (NFD) is a crucial tool in evaluating the effectiveness of policy interventions. According to its principles, modifications in transportation options, particularly those favoring more sustainable modes such as cycling and walking, significantly impact a network’s capacity and critical density.
 We employ a re-sampling methodology for NFDs, which provides a robust estimation of the flow and occupancy in Paris’ road network even under real-world traffic conditions, despite potentially inaccurate or faulty empirical data. 
 
