@@ -1,4 +1,4 @@
-# Effects of the Paris' Cycling Policies on Vehicular Flow - An Empirical Analysis
+# Effects of Paris' Cycling Policies on Vehicular Flow - An Empirical Analysis
 
 This repository contains the code and data accompanying the publication "Effects of the Paris’ Cycling Policies on Vehicular Flow – An Empirical Analysis", published in Transportation Research Record:
 https://journals.sagepub.com/doi/full/10.1177/03611981251356507 
