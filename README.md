@@ -1,8 +1,9 @@
-# Effects of the Plan Vélo I and II on vehicular flow in Paris - An Empirical Analysis
+# Effects of the Paris' Cycling Policies on Vehicular Flow - An Empirical Analysis
 
-This contains the code for the ITSC submission with this title. In the paper, we investigate how the fundamental changes in the Paris' road network since 2010 affected a change in vehicular flow. 
-The Network Fundamental Diagram (NFD) is a crucial tool in evaluating the effectiveness of policy interventions. According to its principles, modifications in transportation options, particularly those favoring more sustainable modes such as cycling and walking, significantly impact a network’s capacity and critical density.
-We employ a re-sampling methodology for NFDs, which provides a robust estimation of the flow and occupancy in Paris’ road network even under real-world traffic conditions, despite potentially inaccurate or faulty empirical data. 
+This repository contains the code and data accompanying the publication "Effects of the Paris’ Cycling Policies on Vehicular Flow – An Empirical Analysis", published in Transportation Research Record:
+https://journals.sagepub.com/doi/full/10.1177/03611981251356507 
+
+In this study, we investigate how major transformations in Paris’ road network since 2010 have influenced vehicular flow. The Network Fundamental Diagram (NFD) is a crucial tool in evaluating the effectiveness of policy interventions. According to its principles, modifications in transportation options, particularly those favoring more sustainable modes such as cycling and walking, significantly impact a network’s capacity and critical density. We employ a re-sampling methodology for NFDs, which provides a robust estimation of the flow and occupancy in Paris’ road network even under real-world traffic conditions, despite potentially inaccurate or faulty empirical data. 
 
 This repository offers a Python implementation of the re-sampling methodology [^1] for Network Fundamental Diagrams (NFDs) measured in lane-kilometers. Additionally, we provide a tool for mapping loop detector data from any city to (historical) OpenStreetMap (OSM) data, available in the 'network-matching' folder. This functionality can be leveraged for analysis in other cities.
 
